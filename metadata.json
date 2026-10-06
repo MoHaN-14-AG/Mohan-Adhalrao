@@ -1,0 +1,6 @@
+{
+  "name": "SetuSeva - MBMC Citizen Relationship Management",
+  "description": "Citizen Relationship Management (CiRM) platform for Mira-Bhayandar Municipal Corporation (MBMC) with unified citizen records, SLA tracking, and ward accountability scorecards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
